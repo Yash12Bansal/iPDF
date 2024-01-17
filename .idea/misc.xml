@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/drawable/shape.xml" value="0.1" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/drawable/shape2.xml" value="0.1" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/activity_web.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/custom_toolbar.xml" value="0.22" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/each_pdf.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/fragment_all_p_d.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/fragment_created.xml" value="0.19010416666666666" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/fragment_home.xml" value="0.19010416666666666" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/fragment_p_d_fcreated.xml" value="0.22" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/fragment_selected_images.xml" value="0.22" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/image_item.xml" value="0.22" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/layout/item_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/menu/menu_selected.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/xml/file_paths.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Development Codes/pdfConverter/app/src/main/res/xml/filepaths.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

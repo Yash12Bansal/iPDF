@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/home2">
+    <fragment
+        android:id="@+id/home2"
+        android:name="com.yash.pdfconverter.Home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_home2_to_selectedImages"
+            app:destination="@id/selectedImages"
+            app:popUpTo="@id/home2"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/selectedImages"
+        android:name="com.yash.pdfconverter.SelectedImages"
+        android:label="fragment_selected_images"
+        tools:layout="@layout/fragment_selected_images" >
+        <action
+            android:id="@+id/action_selectedImages_to_PDFcreated"
+            app:destination="@id/PDFcreated"
+            app:popUpTo="@id/home2"
+            app:popUpToInclusive="false" />
+    </fragment>
+    <fragment
+        android:id="@+id/PDFcreated"
+        android:name="com.yash.pdfconverter.PDFcreated"
+        android:label="fragment_p_d_fcreated"
+        tools:layout="@layout/fragment_p_d_fcreated" >
+        <action
+            android:id="@+id/action_PDFcreated_to_home2"
+            app:destination="@id/home2"
+            app:popUpTo="@id/home2" />
+    </fragment>
+</navigation>
